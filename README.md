@@ -5,7 +5,7 @@
    * [ ] [3187](https://www.acmicpc.net/problem/3187)
    * [x] [12852](https://www.acmicpc.net/problem/12852)
    * [x] [9009](https://www.acmicpc.net/problem/9009)
-   * [ ] [14575](https://www.acmicpc.net/problem/14575)
+   * [x] [14575](https://www.acmicpc.net/problem/14575)
    * [ ] [5014](https://www.acmicpc.net/problem/5014)
    * [ ] [15686](https://www.acmicpc.net/problem/15686)
 * 선택문제
