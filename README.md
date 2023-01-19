@@ -11,7 +11,7 @@
 * 선택문제
    * [ ] [2792](https://www.acmicpc.net/problem/2792)
    * [ ] [11568](https://www.acmicpc.net/problem/11568)
-   * [ ] [1325](https://www.acmicpc.net/problem/1325)
+   * [x] [1325](https://www.acmicpc.net/problem/1325)
 
 # 1주차
 * 백준
