@@ -7,7 +7,7 @@
    * [x] [9009](https://www.acmicpc.net/problem/9009)
    * [ ] [14575](https://www.acmicpc.net/problem/14575)
    * [x] [5014](https://www.acmicpc.net/problem/5014)
-   * [ ] [15686](https://www.acmicpc.net/problem/15686)
+   * [x] [15686](https://www.acmicpc.net/problem/15686)
 * 선택문제
    * [ ] [2792](https://www.acmicpc.net/problem/2792)
    * [ ] [11568](https://www.acmicpc.net/problem/11568)
