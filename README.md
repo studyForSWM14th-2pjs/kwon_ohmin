@@ -1,3 +1,14 @@
+# 4주차
+* 백준
+   * [ ] [2295](https://www.acmicpc.net/problem/2295)
+   * [ ] [1987](https://www.acmicpc.net/problem/1987)
+   * [ ] [1197](https://www.acmicpc.net/problem/1197)
+   * [ ] [1240](https://www.acmicpc.net/problem/1240)
+   * [ ] [15652](https://www.acmicpc.net/problem/15652)
+   * [ ] [1448](https://www.acmicpc.net/problem/1448)
+   * [ ] [1912](https://www.acmicpc.net/problem/1912)
+   * [ ] [7662](https://www.acmicpc.net/problem/7662)
+
 # 2주차
 * 백준
    * [x] [15900](https://www.acmicpc.net/problem/15900)
