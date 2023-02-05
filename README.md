@@ -5,7 +5,7 @@
    * [ ] [1197](https://www.acmicpc.net/problem/1197)
    * [ ] [1240](https://www.acmicpc.net/problem/1240)
    * [x] [15652](https://www.acmicpc.net/problem/15652)
-   * [ ] [1448](https://www.acmicpc.net/problem/1448)
+   * [x] [1448](https://www.acmicpc.net/problem/1448)
    * [ ] [1912](https://www.acmicpc.net/problem/1912)
    * [ ] [7662](https://www.acmicpc.net/problem/7662)
 
