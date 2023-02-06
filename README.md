@@ -1,6 +1,6 @@
 # 4주차
 * 백준
-   * [ ] [2295](https://www.acmicpc.net/problem/2295)
+   * [x] [2295](https://www.acmicpc.net/problem/2295)
    * [x] [1987](https://www.acmicpc.net/problem/1987)
    * [ ] [1197](https://www.acmicpc.net/problem/1197)
    * [ ] [1240](https://www.acmicpc.net/problem/1240)
