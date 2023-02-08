@@ -8,7 +8,11 @@
    * [ ] [1448](https://www.acmicpc.net/problem/1448)
    * [ ] [1912](https://www.acmicpc.net/problem/1912)
    * [ ] [7662](https://www.acmicpc.net/problem/7662)
-
+* 선택문제
+   * [ ] [1967](https://www.acmicpc.net/problem/1967)
+   * [ ] [1932](https://www.acmicpc.net/problem/1932)
+   * [ ] [16236](https://www.acmicpc.net/problem/16236)
+   
 # 2주차
 * 백준
    * [x] [15900](https://www.acmicpc.net/problem/15900)
