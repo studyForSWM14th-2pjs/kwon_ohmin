@@ -3,7 +3,7 @@
    * [x] [2295](https://www.acmicpc.net/problem/2295)
    * [x] [1987](https://www.acmicpc.net/problem/1987)
    * [x] [1197](https://www.acmicpc.net/problem/1197)
-   * [ ] [1240](https://www.acmicpc.net/problem/1240)
+   * [x] [1240](https://www.acmicpc.net/problem/1240)
    * [x] [15652](https://www.acmicpc.net/problem/15652)
    * [x] [1448](https://www.acmicpc.net/problem/1448)
    * [x] [1912](https://www.acmicpc.net/problem/1912)
@@ -12,7 +12,7 @@
    * [ ] [1967](https://www.acmicpc.net/problem/1967)
    * [ ] [1932](https://www.acmicpc.net/problem/1932)
    * [ ] [16236](https://www.acmicpc.net/problem/16236)
-   
+
 # 2주차
 * 백준
    * [x] [15900](https://www.acmicpc.net/problem/15900)
