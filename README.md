@@ -1,3 +1,14 @@
+# 5주차
+* 백준
+   * [ ] [2174](https://www.acmicpc.net/problem/2174)
+   * [ ] [14499](https://www.acmicpc.net/problem/14499)
+   * [ ] [9549](https://www.acmicpc.net/problem/9549)
+   * [ ] [2075](https://www.acmicpc.net/problem/2075)
+* 프로그래머스
+    * [ ] [49189](https://programmers.co.kr/learn/courses/30/lessons/49189)
+    * [ ] [43163](https://programmers.co.kr/learn/courses/30/lessons/43163)
+    * [ ] [43162](https://programmers.co.kr/learn/courses/30/lessons/43162)
+
 # 4주차
 * 백준
    * [x] [2295](https://www.acmicpc.net/problem/2295)
