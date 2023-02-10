@@ -5,7 +5,6 @@ robots = []
 command = []
 dx = [0, 1, 0, -1]
 dy = [1, 0, -1, 0]
-issue = 0
 
 for _ in range(n):
     x, y, z = input().split()
@@ -26,10 +25,11 @@ for _ in range(m):
 for r, c, repeat in command:
     for _ in range(repeat):
         if c == 'F':
-            robots[r - 1][0] += dx[r - 1]
-            robots[r - 1][1] += dy[r - 1]
+            direction = robots[r - 1][2]
+            robots[r - 1][0] += dx[direction]
+            robots[r - 1][1] += dy[direction]
             
-            if robots[r -1][0] > a or robots[r -1][1] > b or robots[r -1][0] <= 0 or robots[r -1][1] <= 0:
+            if robots[r - 1][0] > a or robots[r - 1][1] > b or robots[r - 1][0] <= 0 or robots[r - 1][1] <= 0:
                 print(f'Robot {r} crashes into the wall')
                 exit(0)
             for j in range(n):
