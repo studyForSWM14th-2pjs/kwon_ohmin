@@ -7,7 +7,7 @@
 * 프로그래머스
     * [ ] [49189](https://programmers.co.kr/learn/courses/30/lessons/49189)
     * [x] [43163](https://programmers.co.kr/learn/courses/30/lessons/43163)
-    * [ ] [43162](https://programmers.co.kr/learn/courses/30/lessons/43162)
+    * [x] [43162](https://programmers.co.kr/learn/courses/30/lessons/43162)
 
 # 4주차
 * 백준
