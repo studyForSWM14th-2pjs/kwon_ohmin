@@ -1,7 +1,7 @@
 # 5주차
 * 백준
    * [x] [2174](https://www.acmicpc.net/problem/2174)
-   * [ ] [14499](https://www.acmicpc.net/problem/14499)
+   * [x] [14499](https://www.acmicpc.net/problem/14499)
    * [ ] [9549](https://www.acmicpc.net/problem/9549) - 실패
    * [x] [2075](https://www.acmicpc.net/problem/2075)
 * 프로그래머스
